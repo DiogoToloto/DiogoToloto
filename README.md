@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiogoToloto
 - 👀 I’m interested in ser um programador fullStack
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, HTML e CSS
+- 💞️ I’m looking to collaborate on Tudo que me ajude a melhorar
 - 📫 How to reach me ...
 
 <!---
